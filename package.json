@@ -1,9 +1,18 @@
 {
   "name": "storybook-addon-coverage-panel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A storybook add-on to work in conjunction with @storybook/addon-coverage to display the coverage metrics in storybook UI panel",
   "keywords": [
-    "storybook-addons", "test", "testing", "coverage", "coverage-ui", "coverage-panel", "storybook-test-runner", "addon-coverage", "@storybook/addon-coverage", "storybook-addons"
+    "storybook-addons",
+    "test",
+    "testing",
+    "coverage",
+    "coverage-ui",
+    "coverage-panel",
+    "storybook-test-runner",
+    "addon-coverage",
+    "@storybook/addon-coverage",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -98,7 +107,15 @@
   "storybook": {
     "displayName": "Story coverage panel",
     "supportedFrameworks": [
-      "react", "vue", "angular", "web-components", "ember", "html", "svelte", "preact", "react-native"
+      "react",
+      "vue",
+      "angular",
+      "web-components",
+      "ember",
+      "html",
+      "svelte",
+      "preact",
+      "react-native"
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
